@@ -1,0 +1,19 @@
+"Guid","CurrencyIsoCode","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__TestedFormula__c","SBQQ__TestedVariable__c","SBQQ__Value__c"
+085161d8-3eed-4bd1-b46c-8a91975e1f1f,USD,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,"#N/A","#N/A",Quote
+1067c8d4-5124-4bd8-a9ee-68011582b74c,USD,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,"#N/A","#N/A",EP-013
+1dd79517-5b6f-4ded-97bc-f637416ddb89,USD,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,"#N/A","#N/A",fdhfvu6578
+2071cf19-cded-4939-9bc4-c37b279e0b72,USD,Product Code,"#N/A",Value,"#N/A",333.0,Quote Line,equals,"#N/A","#N/A",EP-015
+23b9b171-33f6-4b61-b33c-454595c9fd70,USD,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,"#N/A","#N/A","#N/A"
+2b30b837-ba2a-4f94-a323-7e3592e231b3,USD,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,equals,"#N/A","#N/A",WDCHIP
+346eb1c2-c235-4c41-b0b3-32f13d948833,USD,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,"#N/A","#N/A","#N/A"
+361ca22c-d0d7-4a39-bf7f-ccb65e313c58,USD,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,"#N/A","#N/A",EP-025
+3761469a-c352-48a3-98cc-6bdd61f983ac,USD,Product Code,"#N/A",Value,"#N/A",222.0,Product Option,equals,"#N/A","#N/A",EP-014
+43797abd-edc0-4d98-8d41-4e69c40b96eb,USD,Protected_Devices__c,"#N/A",Value,"#N/A","#N/A",Product Option,greater than,"#N/A","#N/A",0
+61e2b359-1db1-4982-9cbb-a626bdaea8fc,USD,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,"#N/A","#N/A","#N/A"
+68d271b0-e137-438b-a27b-2fb4993f20c3,USD,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,"#N/A","#N/A","#N/A"
+7b8572a1-f49a-45a4-9a05-d0739b902b92,USD,Product Code,"#N/A",Value,"#N/A",444.0,Quote Line,equals,"#N/A","#N/A",EP-025
+a717782c-475a-4695-8893-330c3d06798d,USD,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Quote Line,contains,"#N/A","#N/A",SRV-001
+ac3bec2f-5bb7-44dd-a161-7f61d6c56297,USD,Product Code,"#N/A",Value,"#N/A",444.0,Product Option,equals,"#N/A","#N/A",EP-025
+c970ab1b-100e-4619-ace3-ebdb15072215,USD,Product Code,"#N/A",Value,"#N/A",222.0,Quote Line,equals,"#N/A","#N/A",EP-014
+cedba85e-915e-47f6-9789-6cb2b5e18bd7,USD,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,"#N/A","#N/A",Quote
+d721f8c9-9dfa-4107-9093-b2b9ace9cc62,USD,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,"#N/A","#N/A",EP-015
